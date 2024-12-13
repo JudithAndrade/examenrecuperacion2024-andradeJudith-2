@@ -45,11 +45,11 @@ En caso de no contar con una, podrá utilizar una computadora de la escuela, pre
 
 En el repositorio debe incluirse un archivo README.md general con la siguiente información:
 
->Nombre completo del estudiante
+>Nombre completo del estudiante:Judith Andrade Andrade Perez 
 
->Matrícula
+>Matrícula:19760544
 
->Materia en recuperación
+>Materia en recuperación:Backend-2
 
 **Cada problema debera contar con su readme, describiendo como ejecutarlo y la version del lenguaje utilizado**
 
